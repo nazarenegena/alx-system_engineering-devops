@@ -1,1 +1,1 @@
-main readme
+new permissions
