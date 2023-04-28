@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# the display is for the list
+# the process is currently running and  contains bash keyword
+pgrep -aux | grep bash
