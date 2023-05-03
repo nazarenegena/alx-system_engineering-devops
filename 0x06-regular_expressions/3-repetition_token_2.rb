@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 #three-reputation token matching method
-pattern = /hbt+n/
+patterns = /hbt+n/
 if ARGV.any?
-ARGV.first.scan(pattern) { |j| puts j }
+ARGV.first.scan(patterns) { |j| puts j }
 end
