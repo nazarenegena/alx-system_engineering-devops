@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # the script installs a Nginx server
 # it has a custome HTTP header
 
