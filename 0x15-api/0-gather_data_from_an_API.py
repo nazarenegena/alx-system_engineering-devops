@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-""" script that returns TODO list info """
-
+"""get api"""
 import requests
-import sys
+from sys import argv
+
 
 """ request to specified api url to retrieve json data """
 
