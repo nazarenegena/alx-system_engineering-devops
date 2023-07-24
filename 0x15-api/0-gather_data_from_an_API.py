@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-"""get api"""
+""" get the files"""
 import requests
-from sys import argv
-
+import sys
 
 """ request to specified api url to retrieve json data """
 
