@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """ script that returns info about employees TODO list progress """
 
-import sys
 import requests
+import sys
 
 """ request to specified api url to retrieve json data """
 
