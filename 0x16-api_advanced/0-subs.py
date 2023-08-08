@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# function that queries the reddit api
+""" function that queries the reddit api"""
 
 from requests import get
 from sys import argv
